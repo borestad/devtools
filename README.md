@@ -22,3 +22,9 @@ Personal list of great devtools for the common "web/js/node/fullstack/designer"-
 
     brew install mc
 
+
+[git-sweep](http://lab.arc90.com/2012/04/03/git-sweep/)
+    - "A command-line tool that helps you clean up Git branches that have been merged into master."
+
+    pip install git-sweep || easy_install git-sweep
+
